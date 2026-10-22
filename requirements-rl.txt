@@ -1,0 +1,7 @@
+# Training and evaluation dependencies from the tested Python 3.10 environment.
+-r requirements.txt
+
+torch==2.6.0
+gymnasium==1.0.0
+stable-baselines3==2.5.0
+tensorboard==2.19.0

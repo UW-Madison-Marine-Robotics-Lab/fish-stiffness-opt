@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite the accompanying paper below."
+type: software
+title: "Fish Stiffness Optimization"
+authors:
+  - name: "fish-stiffness-opt contributors"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Dynamics Modeling and Swimming Optimization of Robotic Fish with Various Local Body Stiffness"
+  authors:
+    - family-names: Jin
+      given-names: Jiayi
+    - family-names: Chao
+      given-names: Li-Ming
+    - family-names: Li
+      given-names: Liang
+    - family-names: Wang
+      given-names: Wei
+  journal: "IEEE Robotics and Automation Letters"
+  status: in-press
+  doi: 10.1109/LRA.2026.3746908
