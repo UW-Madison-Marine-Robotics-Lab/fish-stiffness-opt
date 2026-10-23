@@ -55,7 +55,6 @@ def viz_q_traj(t_traj: NDArray, q_traj: NDArray, N: int, geometry, links, freq: 
     x_max = np.max(q_traj[:, 0]) + L
     y_min = np.min(q_traj[:, N]) - L / 2
     y_max = np.max(q_traj[:, N]) + L / 2
-    x_min = -7.2 * L; x_max = L; y_min = -0.5 * L; y_max = 0.5 * L
     y_lim = max(abs(y_min), abs(y_max))
 
     # video writer setup
