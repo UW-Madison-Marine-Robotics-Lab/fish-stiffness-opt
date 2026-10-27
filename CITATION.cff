@@ -18,5 +18,9 @@ preferred-citation:
     - family-names: Wang
       given-names: Wei
   journal: "IEEE Robotics and Automation Letters"
-  status: in-press
+  status: advance-online
+  year: 2026
+  start: 1
+  end: 8
   doi: 10.1109/LRA.2026.3746908
+  url: https://ieeexplore.ieee.org/document/11753345

@@ -7,14 +7,13 @@ in robotic fish.
 
 This repository accompanies the paper:
 
-**Dynamics Modeling and Swimming Optimization of Robotic Fish with Various Local Body Stiffness**  
+**[Dynamics Modeling and Swimming Optimization of Robotic Fish with Various Local Body Stiffness](https://ieeexplore.ieee.org/document/11753345)**  
 Jiayi Jin, Li-Ming Chao, Liang Li, and Wei Wang.  
-Accepted for publication in *IEEE Robotics and Automation Letters*.  
+*IEEE Robotics and Automation Letters*, Early Access, pp. 1–8, 2026.  
 DOI: [10.1109/LRA.2026.3746908](https://doi.org/10.1109/LRA.2026.3746908).
 
 If you use this framework, please cite the paper using [BibTeX](CITATION.bib)
-or [CITATION.cff](CITATION.cff). Final publication details will be added when
-available.
+or [CITATION.cff](CITATION.cff).
 
 ## Install on Ubuntu or macOS
 
